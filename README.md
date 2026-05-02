@@ -8,7 +8,7 @@ SvoboduKrasnoperkam@Github$ sudo su
 
 root@Github# rm -rf /
 
-rm: acces denied you cant delete Github
+rm: acess denied you cant delete Github
 
 root@Github# exit
 
