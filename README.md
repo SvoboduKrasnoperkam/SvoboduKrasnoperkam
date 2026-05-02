@@ -1,6 +1,6 @@
 SvoboduKrasnoperkam@Github$ sudo bash hello.sh
 
-sudo пароль до SvoboduKrasnoperkam:
+[sudo] пароль до SvoboduKrasnoperkam:
 
 Привіт я Денис український розробник/дизайнер
 
