@@ -1,12 +1,8 @@
-# Свободу красноперкам
-Привіт я Денис. Я український розоробник вмію писати на:
-- Python
-- Java
-- C/C++ (Трішки)
-- JSON
-- CSS
-- HTML
-# І я требую СВОБОДУ КРАСНОПЕРКАМ
-Щас розкажу звідки я взяв цю фразу
--
-Був я з дідом на риболовлі, ми піймали краснопірку і вже збирались їхати на інше озеро бо на тому що ми були взагалі не клювало. Коли дід випускав краснопірку яка була доволі маленька, і тут я і сказав "Свободу красноперкам" з того моменту я і почав казати цю фразу
+SvoboduKrasnoperkam@Github$ sudo bash hello.sh
+sudo пароль до SvoboduKrasnoperkam:
+Привіт я Денис український розробник/дизайнер
+SvoboduKrasnoperkam@Github$ sudo su
+root@Github# rm -rf /
+rm: acces denied you cant delete Github
+root@Github# exit
+SvoboduKrasnoperkam@Github$ exit
