@@ -1,16 +1,17 @@
-## Hi there 👋
+[svobodukrasnoperkam@github ~]$ ./hello.sh
 
-<!--
-**SvoboduKrasnoperkam/SvoboduKrasnoperkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bash: ./hello.sh: Відмовлено у доступі
 
-Here are some ideas to get you started:
+[svobodukrasnoperkam@github ~]$ ./hello.sh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Привіт я Денис, український розробник
+
+[svobodukrasnoperkam@github ~]$
+
+[root@github ~]# rm -rf /
+
+rm: гітхаб удалять нізя
+
+[root@github ~]# exit
+
+[svobodukrasnoperkam@github ~]$ exit
